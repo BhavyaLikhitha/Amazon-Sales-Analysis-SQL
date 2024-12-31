@@ -1,15 +1,41 @@
 # 📚 Amazon Sales Intelligence: From EDA to Business Solutions
-![Amazon Logo](logo.jpg)
----
+
+<div style="text-align: center;">
+    <img src="logo.jpg" alt="alt text" width="600" height="130">
+</div>
+
 
 ## 🚀 Project Overview
 This project focuses on performing an **Exploratory Data Analysis (EDA)** and solving **critical business problems** using a dataset of **50,000+ rows**. By analyzing the data from various interconnected tables, I aim to uncover insights, detect anomalies, and provide actionable solutions to optimize business processes for Amazon's operations. 🛒
 
 ---
 
+<div style="text-align: center;">
+    <img src="Amazon Sales Dashboard.jpg" alt="alt text" >
+</div>
+
+👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYWQyMGE4YWYtOTI3MS00NmZkLWI1NmMtNTdmN2ExNDczYzJlIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=dca30f971ee5444d21a2)**
+---
+
 ## 🛠️ Technologies Used
 - **PostgreSQL**: Used for database querying and analysis.
 - **SQL**: Wrote advanced queries for data exploration and problem-solving.
+- **Power Query**: ETL (Extract, Transform, Load) for Power BI integration and new measures calculation.
+- **Power BI 📊**: Interactive dashboards for data visualization and reporting.
+---
+
+## 💡 What Makes This Project Unique?
+- **Real-World Problems**: Tackles realistic challenges faced in large-scale e-commerce operations.
+- **Scalable Dataset**: Demonstrates the ability to handle large datasets effectively.
+- **Actionable Insights**: Provides data-driven recommendations to optimize key business processes.
+- **Interactive Dashboard**: Features an attractive and interactive dashboard design, making it easier to demonstrate and explore insights efficiently.
+- **Detailed Power BI Analysis**: Connected all SQL queries to Power BI and designed a **6-page interactive dashboard**:
+  1. **Overview**: Highlights key metrics like total revenue, sales, profit, and trends.
+  2. **Sales**: Focuses on trends, target vs. actual sales, and category contribution.
+  3. **Customer**: Analyzes customer behavior, retention, and segmentation.
+  4. **Product**: Details product performance, profit margins, and return percentages.
+  5. **Logistics**: Provides insights into shipping delays, inventory, and delivery metrics.
+  6. **Insights**: Consolidates high-level metrics like successful orders, inactive sellers, and payment breakdowns.
 
 ---
 
@@ -23,27 +49,6 @@ This project focuses on performing an **Exploratory Data Analysis (EDA)** and so
 
 ---
 
-## 📊 Dataset Details
-The dataset consists of 50,000+ rows spread across multiple tables:
-
-- **`Category`**: Contains details about product categories.
-- **`Customers`**: Information about Amazon's customers, including names, states, and addresses.
-- **`Sellers`**: Data about sellers and their origin.
-- **`Products`**: Product details, including price, cost, and category.
-- **`Orders`**: Records of customer orders with dates and statuses.
-- **`Order_items`**: Information on products ordered, quantities, and prices.
-- **`Payments`**: Payment statuses and details for each order.
-- **`Shipping`**: Shipping details, including providers and delivery status.
-- **`Inventory`**: Stock details for each product and warehouse information.
-
----
-
-## 💡 What Makes This Project Unique?
-- **Real-World Problems**: Tackles realistic challenges faced in large-scale e-commerce operations.
-- **Scalable Dataset**: Demonstrates the ability to handle large datasets effectively.
-- **Actionable Insights**: Provides data-driven recommendations to optimize key business processes.
-
----
 
 ## 💼 Business Problems Solved
 
@@ -94,6 +99,22 @@ The dataset consists of 50,000+ rows spread across multiple tables:
 
 ---
 
+
+## 📊 Dataset Details
+The dataset consists of 50,000+ rows spread across multiple tables:
+
+- **`Category`**: Contains details about product categories.
+- **`Customers`**: Information about Amazon's customers, including names, states, and addresses.
+- **`Sellers`**: Data about sellers and their origin.
+- **`Products`**: Product details, including price, cost, and category.
+- **`Orders`**: Records of customer orders with dates and statuses.
+- **`Order_items`**: Information on products ordered, quantities, and prices.
+- **`Payments`**: Payment statuses and details for each order.
+- **`Shipping`**: Shipping details, including providers and delivery status.
+- **`Inventory`**: Stock details for each product and warehouse information.
+
+---
+
 ## ⚙️ Steps Followed
 
 ### 🛠️ Exploratory Data Analysis (EDA):
@@ -120,7 +141,6 @@ The dataset consists of 50,000+ rows spread across multiple tables:
 ## 📌 Future Scope
 
 - **Advanced Machine Learning**: Build predictive models for sales forecasting and customer segmentation.
-- **Interactive Dashboards**: Visualize key metrics using tools like Tableau or Power BI.
 - **Deeper Analysis**: Explore additional dimensions like regional sales performance or seasonality.
 
 ---
