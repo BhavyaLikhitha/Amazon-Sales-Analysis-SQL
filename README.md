@@ -14,7 +14,7 @@ This project focuses on performing an **Exploratory Data Analysis (EDA)** and so
     <img src="Amazon Sales Dashboard.jpg" alt="alt text" >
 </div>
 
-👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYWQyMGE4YWYtOTI3MS00NmZkLWI1NmMtNTdmN2ExNDczYzJlIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=dca30f971ee5444d21a2)**
+👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYjBlZWJmMjYtYjVhOS00ZDU3LWE1N2ItZThiZjlhNmM2OTMyIiwidCI6ImRhMDRjZDQxLTk4ZGUtNDU4YS05Zjg5LTUzNWFjODI0MWJmOSIsImMiOjJ9&pageName=dca30f971ee5444d21a2)**
 ---
 
 ## 🛠️ Technologies Used
