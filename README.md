@@ -1,4 +1,4 @@
-# 📚 Amazon Sales Intelligence: From EDA to Business Solutions
+# 📚 Amazon Sales and Customer Analysis: From EDA to Business Solutions
 
 <div style="text-align: center;">
     <img src="logo.jpg" alt="alt text" width="600" height="130">
